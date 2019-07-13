@@ -1,0 +1,9 @@
+Package: com.gilshahar7.exacttimephone
+Name: ExactTimePhone
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adds an exact time to the calls log in the stock phone app.
+Maintainer: gilshahar7
+Author: gilshahar7
+Section: Tweaks
